@@ -66,6 +66,8 @@ public class Database extends SQLiteOpenHelper {
         return  cursor;
     }
 
+	public void delete(){}
+
 
 
 }
